@@ -1,0 +1,19 @@
+{
+  "name": "algorithm-js",
+  "version": "1.0.0",
+  "description": "learning algorithms and data types",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "algorithms",
+    "datatypes",
+    "learning",
+    "node",
+    "student"
+  ],
+  "author": "Caden Wang",
+  "license": "ISC"
+}
